@@ -1,0 +1,6 @@
+{
+  "name": "Corelab Leave Portal",
+  "description": "Production leave control and workflow portal for Corelab, featuring role-based approvals, balance ledger, holiday management, calendar scheduling, and official PDF leave records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
